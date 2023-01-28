@@ -1,4 +1,4 @@
-module github.com/iamthemodder/cdns-redis
+module github.com/iamthemodder/redis-cdns
 
 go 1.13
 
